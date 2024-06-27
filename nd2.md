@@ -27,5 +27,12 @@
 > Labas
 >```
 
+> ~~**Labas**~~
+>```diff
+> + Labas
+> - Labas
+> + Labas
+>```
+
 
 
